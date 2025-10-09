@@ -14,11 +14,11 @@
   <img src="https://img.shields.io/github/stars/saad-nandoliya?label=Stars&logo=github&style=for-the-badge" alt="GitHub Stars" />
 </div>
 
-<h3 align="center">A smooth sea never made a skilled sailor — "Franklin D. Roosevelt"</h3>
+<h3 align="center">“Building the web, one line of code at a time.”</h3>
 
-🌐 Full-Stack developer passionate about open-source contribution  
-💡 Actively contributing to real-world open-source projects  
-🚀 Always learning, building, and exploring new tech  
+💻 Full-Stack Developer specializing in modern web apps using React, Node.js, and MySQL  
+⚙️ Focused on crafting secure, scalable, and high-performance solutions  
+🌱 Continuously learning, improving, and turning ideas into reality  
 
 <table align="center">
   <tr>
@@ -34,6 +34,9 @@
 <h3 align="left"> 🎓 Play Ground</h3>
 
 <div>
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?&style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?&style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?&style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/-javascript-F7DF1E?&style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/-Node.js-87BF00?&style=for-the-badge&logo=node.js&logoColor=black" />
   <img src="https://img.shields.io/badge/-Express.js-F7F7F7?&style=for-the-badge&logo=express&logoColor=black" />
