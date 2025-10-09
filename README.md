@@ -20,7 +20,7 @@
 ⚙️ Focused on crafting secure, scalable, and high-performance solutions  
 🌱 Continuously learning, improving, and turning ideas into reality  
 
-<table align="center">
+<!-- <table align="center">
   <tr>
     <td>
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=saad-nandoliya&show_icons=true&theme=dracula&private=true&include_all_commits=true" />
@@ -29,7 +29,7 @@
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saad-nandoliya&hide=jupyter%20notebook,css&layout=compact&theme=dracula" width="400" height="200"/>
     </td>
   </tr>
-</table>
+</table> -->
 
 <h3 align="left"> 🎓 Play Ground</h3>
 
