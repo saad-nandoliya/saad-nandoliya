@@ -48,8 +48,19 @@
 <h3 align="center">Connect with me:</h3>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/saad-nandoliya" target=""><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://www.hackerrank.com/profile/saad-nandoliya" target=""><img src="https://img.shields.io/badge/Hackerrank-2EC866?style=for-the-badge&logo=Hackerrank&logoColor=white" alt="Hackerrank"></a>
-  <a href="https://twitter.com/saad_nandoliya" target=""><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
-  <a href="https://leetcode.com/saad-nandoliya/" target=""><img src="https://img.shields.io/badge/Leetcode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white" alt="Leetcode"></a>
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/saad-nandoliya/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+
+  <!-- Portfolio -->
+  <a href="https://saadnandoliya.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+  </a>
+
+  <!-- Resume -->
+  <a href="https://drive.google.com/file/d/1hXV0tmpZa5KNrXXfK5BVIbdgn_hMaMk0/view?usp=drivesdk" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-FF5733?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume">
+  </a>
 </div>
+
