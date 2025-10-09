@@ -41,11 +41,11 @@
   <img src="https://img.shields.io/badge/-Node.js-87BF00?&style=for-the-badge&logo=node.js&logoColor=black" />
   <img src="https://img.shields.io/badge/-Express.js-F7F7F7?&style=for-the-badge&logo=express&logoColor=black" />
   <img src="https://img.shields.io/badge/-ReactJS-grey?&style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/-MySQL-42759C?&style=for-the-badge&logo=mysql&logoColor=f7f7f7" />
   <img src="https://img.shields.io/badge/-Next.js-000000?&style=for-the-badge&logo=next.js&logoColor=f7f7f7" />
-  <img src="https://img.shields.io/badge/-Postman-F56933?&style=for-the-badge&logo=postman&logoColor=f7f7f7" />
+  <img src="https://img.shields.io/badge/-MySQL-42759C?&style=for-the-badge&logo=mysql&logoColor=f7f7f7" />
   <img src="https://img.shields.io/badge/-Git-F05032?&style=for-the-badge&logo=git&logoColor=white" /> 
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Postman-F56933?&style=for-the-badge&logo=postman&logoColor=f7f7f7" />
 </div>
 
 <h3 align="center">Connect with me:</h3>
