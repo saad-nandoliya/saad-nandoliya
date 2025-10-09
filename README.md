@@ -65,5 +65,11 @@
   <a href="https://drive.google.com/file/d/1hXV0tmpZa5KNrXXfK5BVIbdgn_hMaMk0/view?usp=drivesdk" target="_blank">
     <img src="https://img.shields.io/badge/Resume-FF5733?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume">
   </a>
+
+  <!-- Email -->
+  <a href="mailto:saadnandoliya99@gmail.com">
+     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+
 </div>
 
