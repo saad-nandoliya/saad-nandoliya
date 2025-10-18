@@ -34,7 +34,7 @@
 
 <h3 align="left"> 🎉 Hacktoberfest Open source Contribution rewards </h3>
 
-[![An image of @saadnandoliya's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/saadnandoliya)](https://holopin.io/@saadnandoliya)
+[![An image of @saadnandoliya's Holopin badges, which is a link to view their full Holopin profile]](https://holopin.io/@saadnandoliya)
 
 
 <h3 align="left"> 🎓 Play Ground</h3>
