@@ -66,6 +66,7 @@
     <img src="https://img.shields.io/badge/Resume-FF5733?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume">
   </a>
 
+[![An image of @saadnandoliya's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/saadnandoliya)](https://holopin.io/@saadnandoliya)
 
 </div>
 
