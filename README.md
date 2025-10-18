@@ -31,6 +31,12 @@
   </tr>
 </table> -->
 
+
+<h3 align="left"> 🎉 Hacktoberfest Open source Contribution rewards </h3>
+
+[![An image of @saadnandoliya's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/saadnandoliya)](https://holopin.io/@saadnandoliya)
+
+
 <h3 align="left"> 🎓 Play Ground</h3>
 
 <div>
@@ -65,8 +71,6 @@
   <a href="https://drive.google.com/file/d/1hXV0tmpZa5KNrXXfK5BVIbdgn_hMaMk0/view?usp=drivesdk" target="_blank">
     <img src="https://img.shields.io/badge/Resume-FF5733?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume">
   </a>
-
-[![An image of @saadnandoliya's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/saadnandoliya)](https://holopin.io/@saadnandoliya)
 
 </div>
 
